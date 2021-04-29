@@ -1,4 +1,3 @@
 fun main() {
-    println("Hello World!")
-    println("Hello my friend!!!")
+    println("Hello my friend! " + System.currentTimeMillis())
 }
